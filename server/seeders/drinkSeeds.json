@@ -1,0 +1,14 @@
+[
+    { "drinkAuthor": "Barista",
+      "drinkTitle": "Espresso Martini",
+      "drinkIngredients": ["1 shot espresso", "1 1/2 ounces vodka", "1 ounce coffee liqueur", "1/2 ounce simple syrup", "Ice cubes", "Coffee beans (for garnish)"],
+      "drinkInstructions": [
+        "Brew a shot of espresso and let it cool.",
+        "Fill a shaker with ice cubes.",
+        "Add espresso, vodka, coffee liqueur, and simple syrup to the shaker.",
+        "Shake well until chilled.",
+        "Strain into a martini glass.",
+        "Garnish with coffee beans."
+      ]
+    }
+  ]
